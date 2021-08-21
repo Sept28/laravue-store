@@ -25,3 +25,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 # laravue-store
 # laravue-store
 # laravue-store
+# laravue-store
